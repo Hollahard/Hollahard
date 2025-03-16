@@ -30,5 +30,5 @@ SQL | Data Analytics | Supply Chain
 
 
 ## 💬 Let's Connect!
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/carl-l-shaw)
-- Email: [Your Email](mailto:carl.shaw42@gmail.com)
+- LinkedIn: [Carl's LinkedIn](https://www.linkedin.com/in/carl-l-shaw)
+- Email: [Gmail](mailto:carl.shaw42@gmail.com)
