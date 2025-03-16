@@ -1,20 +1,23 @@
-# 👋 Hi, I'm [Your Full Name] - Data Analyst | SQL Developer | Aspiring Data Engineer
+# 👋 Hi, I'm Carl Shaw - Data Analyst | Aspiring Data Engineer
+
 
 Welcome to my data and analytics portfolio! Below are some of my featured projects.
 
+
 ## 📊 Portfolio Projects
 
-### 🚀 1. Nvidia GPU Supply Chain & Sales Database
+###  1. Supply Chain & Sales Database of GPUs
 SQL Server 2022 | Relational Database | Analytics Views  
-👉 [View Full Project Repository](https://github.com/YOUR-USERNAME/Nvidia-GPU-Supply-Chain-Database)
+        👉 [View Full Project Repository](https://github.com/Hollahard/Create_DB)
 
-### 🚴 2. Bike Analysis Insights
+###  2. Social Media Analysis Insights
 Data Analysis | Visualization | SQL & Excel  
-👉 [View Full Project Repository](https://github.com/YOUR-USERNAME/Bike-Analysis-Insights)
+        👉 [View Full Project Repository](https://github.com/Hollahard/Analysis_Social_Media)
 
-### 🚚 3. On-Time Delivery (OTD) Performance Analysis
+###  3. On-Time Delivery (OTD) Performance Analysis
 SQL | Data Analytics | Supply Chain  
-👉 [View Full Project Repository](https://github.com/YOUR-USERNAME/On-Time-Delivery-Analysis)
+        👉 [View Full Project Repository](https://github.com/Hollahard/On-Time_Deliveries)
+
 
 ## 🛠️ Skills & Tools
 - SQL Development & T-SQL
@@ -24,6 +27,7 @@ SQL | Data Analytics | Supply Chain
 - Data Cleaning & Transformation
 - Power BI & Excel Dashboards
 - Python (Data Analysis)
+
 
 ## 💬 Let's Connect!
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/carl-l-shaw)
