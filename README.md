@@ -8,19 +8,20 @@ Welcome to my data and analytics portfolio! Below are some of my featured projec
 
 ###  1. Supply Chain & Sales Database of GPUs
 SQL Server 2022 | Relational Database | Analytics Views  
-        👉 [View Full Project Repository](https://github.com/Hollahard/Create_DB)
+                👉 [View Full Project Repository](https://github.com/Hollahard/Create_DB)
 
 ###  2. Social Media Analysis Insights
 Data Analysis | Visualization | SQL & Excel  
-        👉 [View Full Project Repository](https://github.com/Hollahard/Analysis_Social_Media)
+                👉 [View Full Project Repository](https://github.com/Hollahard/Analysis_Social_Media)
 
 ###  3. On-Time Delivery (OTD) Performance Analysis
 SQL | Data Analytics | Transportation Planning  
-        👉 [View Full Project Repository](https://github.com/Hollahard/On-Time_Deliveries)
+                👉 [View Full Project Repository](https://github.com/Hollahard/On-Time_Deliveries)
 
 ###  4. Excel Automation
 VBA | Data Analytics | Supply Chain  
-        👉 [View Full Project Repository](https://github.com/Hollahard/Excel_Automation_Tasks)        
+                👉 [View Full Project Repository](https://github.com/Hollahard/Excel_Automation_Tasks)        
+
 
 
 ## 🛠️ Skills & Tools
@@ -29,8 +30,9 @@ VBA | Data Analytics | Supply Chain
 - Data Import (BULK INSERT, CSV)
 - SQL Joins & Aggregations
 - Data Cleaning & Transformation
-- Power BI & Excel Dashboards
-- Python (Data Analysis)
+- Excel Dashboards
+- VBA programming
+
 
 
 ## 💬 Let's Connect!
