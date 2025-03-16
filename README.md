@@ -15,8 +15,12 @@ Data Analysis | Visualization | SQL & Excel
         👉 [View Full Project Repository](https://github.com/Hollahard/Analysis_Social_Media)
 
 ###  3. On-Time Delivery (OTD) Performance Analysis
-SQL | Data Analytics | Supply Chain  
+SQL | Data Analytics | Transportation Planning  
         👉 [View Full Project Repository](https://github.com/Hollahard/On-Time_Deliveries)
+
+###  4. Excel Automation
+VBA | Data Analytics | Supply Chain  
+        👉 [View Full Project Repository](https://github.com/Hollahard/Excel_Automation_Tasks)        
 
 
 ## 🛠️ Skills & Tools
