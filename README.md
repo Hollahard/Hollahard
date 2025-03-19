@@ -10,7 +10,8 @@ Welcome to my data and analytics portfolio! Below are some of my featured projec
 ###  🚛 On-Time Delivery (OTD) Performance Analysis
 SQL | Data Analytics | Transportation Planning  
                 👉 [View Full Project Repository](https://github.com/Hollahard/On-Time_Deliveries)
-
+\n
+\n
                 
 
 ###  🔗 Supply Chain & Sales Database of GPUs
