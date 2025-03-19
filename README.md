@@ -2,6 +2,8 @@
 
 
 Welcome to my data and analytics portfolio! Below are some of my featured projects.
+<br>
+<br>
 
 
 ## 📊 Portfolio Projects
@@ -9,28 +11,28 @@ Welcome to my data and analytics portfolio! Below are some of my featured projec
 
 ###    On-Time Delivery (OTD) Performance Analysis  🚛
 SQL | Data Analytics | Transportation Planning  
-                👉 [View Full Project Repository](https://github.com/Hollahard/On-Time_Deliveries)
+                  👉 [View Full Project Repository](https://github.com/Hollahard/On-Time_Deliveries)
 <br>
 <br>
                 
 
 ###    Supply Chain & Sales Database of GPUs  🔗
 SQL Server 2022 | Relational Database | Analytics Views  
-                👉 [View Full Project Repository](https://github.com/Hollahard/Create_DB)
+                  👉 [View Full Project Repository](https://github.com/Hollahard/Create_DB)
 <br>
 <br>
               
 
 ###    Social Media Analysis Insights  📱
 Data Analysis | Visualization | SQL & Excel  
-                👉 [View Full Project Repository](https://github.com/Hollahard/Analysis_Social_Media)
+                  👉 [View Full Project Repository](https://github.com/Hollahard/Analysis_Social_Media)
 <br>
 <br>
                 
 
 ###    Excel Automation 🤖
 VBA | Data Analytics | Supply Chain  
-                👉 [View Full Project Repository](https://github.com/Hollahard/Excel_Automation_Tasks)        
+                  👉 [View Full Project Repository](https://github.com/Hollahard/Excel_Automation_Tasks)        
 
 <br>
 <br>
