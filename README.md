@@ -11,13 +11,19 @@ Welcome to my data and analytics portfolio! Below are some of my featured projec
 SQL | Data Analytics | Transportation Planning  
                 👉 [View Full Project Repository](https://github.com/Hollahard/On-Time_Deliveries)
 
+                
+
 ###  🔗 Supply Chain & Sales Database of GPUs
 SQL Server 2022 | Relational Database | Analytics Views  
                 👉 [View Full Project Repository](https://github.com/Hollahard/Create_DB)
 
+                
+
 ###  📱 Social Media Analysis Insights
 Data Analysis | Visualization | SQL & Excel  
                 👉 [View Full Project Repository](https://github.com/Hollahard/Analysis_Social_Media)
+
+                
 
 ###  🤖 Excel Automation
 VBA | Data Analytics | Supply Chain  
