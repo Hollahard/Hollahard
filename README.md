@@ -9,7 +9,7 @@ Im here to showcase a few projects I have built/worked on either while in colleg
 
 
 ###    On-Time Delivery (OTD) Performance Analysis  🚛
-SQL | Data Analytics | Transportation Planning  
+Tableau | Data Analytics | Transportation Planning  
                   👉 [View Full Project Repository](https://github.com/Hollahard/On-Time_Deliveries)
 <br>
 <br>
