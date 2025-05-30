@@ -5,40 +5,40 @@ Im here to showcase a few projects I have built/worked on either while in colleg
 <br>
 
 
-## 📊 Portfolio Projects
+##  Portfolio Projects
 
 
 ###    On-Time Delivery (OTD) Performance Analysis  🚛
 Tableau | Data Analytics | Transportation Planning  
-                  👉 [View Full Project Repository](https://github.com/Hollahard/On-Time_Deliveries)
+                   [View Full Project Repository](https://github.com/Hollahard/On-Time_Deliveries)
 <br>
 <br>
                 
 
 ###    Supply Chain & Sales Database of GPUs  🔗
 SQL Server 2022 | Relational Database | Analytics Views  
-                  👉 [View Full Project Repository](https://github.com/Hollahard/Create_DB)
+                   [View Full Project Repository](https://github.com/Hollahard/Create_DB)
 <br>
 <br>
               
 
 ###    Social Media Analysis Insights  📱
 Data Analysis | Visualization | SQL & Excel  
-                  👉 [View Full Project Repository](https://github.com/Hollahard/Analysis_Social_Media)
+                   [View Full Project Repository](https://github.com/Hollahard/Analysis_Social_Media)
 <br>
 <br>
                 
 
 ###    Excel Automation 🤖
 VBA | Data Analytics | Supply Chain  
-                  👉 [View Full Project Repository](https://github.com/Hollahard/Excel_Automation_Tasks)        
+                   [View Full Project Repository](https://github.com/Hollahard/Excel_Automation_Tasks)        
 
 <br>
 <br>
 
 
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 - SQL Development & T-SQL
 - Database Design & Normalization (3NF)
 - Data Import (BULK INSERT, CSV)
@@ -49,6 +49,6 @@ VBA | Data Analytics | Supply Chain
 
 
 
-## 💬 Let's Connect!
+##  Let's Connect!
 - LinkedIn: [Carl's LinkedIn](https://www.linkedin.com/in/carl-l-shaw)
 - Email: [Gmail](mailto:carl.shaw42@gmail.com)
